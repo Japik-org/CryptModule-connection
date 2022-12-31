@@ -8,6 +8,8 @@
     <artifactId>cryptmodule-shared</artifactId>
     <version>2.0</version>
 
+    <name>Crypt Module Shared</name>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
